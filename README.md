@@ -10,6 +10,6 @@ At the moment all the challenges here are Codewars katas. I leave comments of th
 
 ## :medal_sports: Current Codewars Stats
 
-* Rank: 5 kyu
-* Total Completed Kata: 195
-* Honor Percentile: Top 9.635%
+* Rank: 4 kyu
+* Total Completed Kata: 255
+* Honor Percentile: Top 4.902%
