@@ -1,0 +1,4 @@
+//Sorted Union
+function uniteUnique(...a) {
+  return [... new Set(a.flat(Infinity))]
+}
